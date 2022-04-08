@@ -149,6 +149,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "PolyWorks-SquareOff",
+      "name": "PolyWorks SquareOff (LIBrary)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103290501?v=4",
+      "profile": "https://github.com/Polyworks-Squareoff",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
